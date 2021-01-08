@@ -59,7 +59,7 @@ s3transfer==0.1.10
 singledispatch==3.4.0.3
 six==1.10.0
 snowballstemmer==1.2.1
-Sphinx==1.6.3
+Sphinx==3.4.3
 sphinx-rtd-theme==0.2.4
 sphinxcontrib-websupport==1.0.1
 testtools==2.2.0
